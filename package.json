@@ -1,7 +1,4 @@
 {
   "name": "autohuolto-tuomainen",
-  "private": true,
-  "scripts": {
-    "start": "npx --yes serve ."
-  }
+  "private": true
 }
